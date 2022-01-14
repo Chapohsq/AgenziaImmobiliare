@@ -1,3 +1,15 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Roboto+Slab:wght@300;400;600&family=The+Nautigal:wght@700&display=swap');
+
+body{
+    margin: 0px;
+padding: 0px;
+background-color: #f0c960;
+
+
+font-family: 'Roboto Slab', serif;
+}
+
 .header-title{
 background-image: url(./images/10-cose-da-sapere-prima-di-acquistare-casa-con-una-agenzia-immobiliare.jpg);
 min-height: 50px;
@@ -7,4 +19,104 @@ background-position: center center;
 padding-top: 300px;
 text-align: center;
 font-size: 80px;
+margin: 0px;
+font-family: 'The Nautigal', cursive;
+}
+.nav-menu{
+    background-color: #edb51c;
+    padding: 1px;
+    text-align: center;
+    font-size: 20px;
+    margin: 0px;
+
+}
+
+.nav-link{
+    color:#FDFFFC ;
+
+border-style: solid;
+border-radius: 4px;
+padding: 4px;
+display: inline-block;
+width: 100px;
+text-decoration: none;
+margin: 0px;
+}
+.storia-immobiliare{
+text-align: center
+
+}
+.text-storia{
+
+    max-width: 800px;
+    margin: auto;
+    font-size: 25px;
+    
+
+}
+
+.gallery-img{
+    width: 32.9%;
+    border-style:solid ;
+    color: black;
+    
+
+
+}
+.nome-pagina{
+text-align: center;
+margin: 0px;
+
+}
+.nome-pagina1{
+
+border-style: solid;
+border-radius: 5px ;
+display: inline-block;
+margin: 5px;
+}
+table{
+border-style: solid;
+border-width: 1px;
+position: relative;
+bottom: 600px;
+
+
+}
+table td{
+    border-style: solid;
+    border-width: 1px;
+ 
+}
+footer{
+background-color: #edb51c;
+text-align: center;
+padding: 23px;
+font-size: 20px;
+}
+.footer-text{
+color: #FDFFFC;
+margin: 0px;
+padding: 0px;
+}
+.immagini-case{
+    border-style:solid ;
+    margin: 5px;
+
+}
+.facebook{
+width: 100px;
+position: relative;
+left: 10%;
+bottom: 70px;
+
+}
+.informazioni{
+    position: relative;
+left:  40%;
+
+}
+.link-info{
+text-decoration: none;
+color: #FDFFFC;
 }
