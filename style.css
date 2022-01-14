@@ -12,13 +12,13 @@ font-family: 'Roboto Slab', serif;
 
 .header-title{
 background-image: url(./images/10-cose-da-sapere-prima-di-acquistare-casa-con-una-agenzia-immobiliare.jpg);
-min-height: 50px;
+min-height: 40px;
 max-height: 250px;
 background-size: cover;
 background-position: center center;
 padding-top: 300px;
 text-align: center;
-font-size: 80px;
+font-size:70px;
 margin: 0px;
 font-family: 'The Nautigal', cursive;
 }
